@@ -2,6 +2,6 @@
 
 这里是我创建的网站，提供政策解读、工具资源和探店视频。
 
-- [政策解读](/policies)
-- [工具资源](/tools)
-- [探店视频](/videos)
+- [政策解读](https://yanglaoada.github.io/policies)
+- [工具资源](https://yanglaoada.github.io/tools)
+- [探店视频](https://yanglaoada.github.io/videos)
